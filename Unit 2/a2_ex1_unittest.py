@@ -1,7 +1,7 @@
 import unittest
 import subprocess
 
-PYTHON_CMD='python3'
+PYTHON_CMD='python'
 
 class TestStudentScriptEx1(unittest.TestCase):
     
