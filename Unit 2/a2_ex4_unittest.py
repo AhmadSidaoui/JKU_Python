@@ -1,7 +1,7 @@
 import unittest
 import subprocess
 
-PYTHON_CMD = 'python3'
+PYTHON_CMD = 'python'
 
 def normalize_output(output):
     return '\n'.join([line.rstrip() for line in output.splitlines()])
